@@ -66,12 +66,11 @@ console.log(`
       }
     
       const welcomeMsg = `
-    や╿Welcome To ${serverName} ${memberMention}
-    や╿مرحبًا بك في ${serverName} ${memberMention}
+    や╿Welcome To ${serverName} # ${memberMention}
     
-    や╿Member Count | عدد الأعضاء: ${memberCount}
-    や╿By | تمت دعوتك بواسطة: ${inviterTag}
-    や╿Owner | مالك السيرفر: <@${owner.id}>
+    や╿Member Count | # ${memberCount}
+    や╿By | # ${inviterTag}
+    や╿Owner | # <@${owner.id}>
       `;
     
       channel.send(welcomeMsg);
