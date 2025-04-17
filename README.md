@@ -18,7 +18,7 @@
 1. انسخ الملف `.env.example` إلى `.env`:
 ```bash
 cp .env.example .env
-
+```
 ## روابط التواصل
 
 - 🌐 GitHub: [Cloes](https://github.com/i-close)
