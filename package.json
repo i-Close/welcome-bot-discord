@@ -1,0 +1,30 @@
+{
+  "name": "welcome-bot",
+  "version": "1.0.0",
+  "description": "بوت ديسكورد للترحيب بالمستخدمين الجدد - عربي وإنجليزي",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Nawaf",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/i-Close/welcome-bot-discord.git"
+  },
+  "keywords": [
+    "discord-bot",
+    "welcome",
+    "arabic",
+    "english",
+    "discord.js"
+  ],
+  "bugs": {
+    "url": "https://github.com/i-Close/welcome-bot-discord/issues"
+  },
+  "homepage": "https://github.com/i-Close/welcome-bot-discord#readme"
+}
