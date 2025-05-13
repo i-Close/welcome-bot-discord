@@ -21,7 +21,7 @@ cp .env.example .env
 ```
 ## روابط التواصل
 
-- 🌐 GitHub: [Cloes](https://github.com/i-close)
+- 🌐 GitHub: [ByNawaf](https://github.com/i-close)
 - 💬 Discord: [discord.gg/Nawaf](https://discord.gg/Ay4cqudf9r)
 
 ---
